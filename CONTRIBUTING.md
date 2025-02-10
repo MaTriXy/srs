@@ -1,3 +1,5 @@
-First of all, thank you for considering contributing to SRS. It's people like you that make SRS a great live streaming cluster.
+Welome to contribute to SRS!
 
-Pelease read https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md
+1. Please read **Contribution([CN](https://github.com/ossrs/srs/issues/2866#contribution) EN)** before file new PR.
+2. Please start from fixing some [Issues: good first issue](https://github.com/ossrs/srs/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22), then follow the [guide](https://github.com/ossrs/srs/wiki/HowToFilePR).
+3. We will review your PR ASAP.
